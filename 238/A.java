@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 238a {
     public static void solve(String args[]) {
         // System in は標準入力を指す？
         Scanner scanner = new Scanner(System.in);

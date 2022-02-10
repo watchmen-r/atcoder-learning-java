@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class 238b {
     public static void solve(String args[]) {
         Scanner sc = new Scanner(System.in);
 
